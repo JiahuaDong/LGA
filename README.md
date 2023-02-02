@@ -24,6 +24,16 @@ If you find this code is useful to your research, please consider to cite our pa
 }
 ```
 
+```
+@InProceedings{dong2022federated,
+    author = {Dong, Jiahua and Wang, Lixu and Fang, Zhen and Sun, Gan and Xu, Shichao and Wang, Xiao and Zhu, Qi},
+    title = {Federated Class-Incremental Learning},
+    booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {June},
+    year = {2022},
+}
+```
+
 ## Contact:
 If you have some questions, feel free to contact:
 * **Jiahua Dong:** dongjiahua1995@gmail.com
