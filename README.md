@@ -1,9 +1,10 @@
 
-# Pytorch Implementation for LGA
+# Pytorch Implementation for [No One Left Behind: Real-World Federated Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)
 
-## This paper [[*] No One Left Behind: Real-World Federated Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html) is a substantial extension of [[CVPR-2022] Federated Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)
+## This paper is a substantial extension of [[CVPR-2022] Federated Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)
 
-You can also find the arXiv version with supplementary material at [here](https://arxiv.org/abs/2203.11473).
+
+## Code is coming soon...
 
 
 
