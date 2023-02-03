@@ -1,5 +1,5 @@
 
-# Pytorch Implementation for [No One Left Behind: Real-World Federated Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)
+# Pytorch Implementation for [No One Left Behind: Real-World Federated Class-Incremental Learning](https://arxiv.org/abs/2302.00903)
 
 ## This paper is a substantial extension of [[CVPR-2022] Federated Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)
 
