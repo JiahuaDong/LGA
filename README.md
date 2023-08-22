@@ -17,6 +17,21 @@ This paper is a substantial extension of [[CVPR-2022] Federated Class-Incrementa
 * cv2
 * scipy
 * sklearn
+
+## Datasets:
+* CIFAR100: You don't need to do anything before running the experiments on CIFAR100 dataset.
+
+* Imagenet-Subset (Mini-Imagenet): Please manually download the on [Mini-Imagenet](https://github.com/yaoyao-liu/mini-imagenet-tools) dataset from the official websites, and place it in './dataset'.
+
+* Tiny-Imagenet: Please manually download the on [Tiny-Imagenet](https://github.com/seshuad/IMagenet) dataset from the official websites, and place it in './dataset'.
+## Launching an experiment:
+
+For exampler, if you want to run LGA on CIFAR100 in the 10 steps setting:
+
+Modify the path of dataset in './scripts/cifar_task_10.sh' and run the following commands.
+
+    sh scripts/cifar_task_10.sh
+  
 ## Citation:
 
 If you find this code is useful to your research, please consider to cite our paper.
