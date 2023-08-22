@@ -1,15 +1,22 @@
 # LGA
 
-# Pytorch Implementation for [No One Left Behind: Real-World Federated Class-Incremental Learning](https://arxiv.org/abs/2302.00903)
+This is the ytorch Implementation for [No One Left Behind: Real-World Federated Class-Incremental Learning](https://arxiv.org/abs/2302.00903)
 
-## This paper is a substantial extension of [[CVPR-2022] Federated Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)
+This paper is a substantial extension of [[CVPR-2022] Federated Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)
 
 
-
+## Overview
 ![image](https://github.com/JiahuaDong/LGA/blob/main/data/overview.png)
 
-
-
+## Requirements:
+* python == 3.8
+* torch == 1.7.0
+* numpy
+* PIL
+* torchvision == 0.8.1
+* cv2
+* scipy
+* sklearn
 ## Citation:
 
 If you find this code is useful to your research, please consider to cite our paper.
