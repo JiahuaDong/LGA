@@ -5,7 +5,6 @@
 ## This paper is a substantial extension of [[CVPR-2022] Federated Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)
 
 
-## The source code will come in Aug. 2023.
 
 ![image](https://github.com/JiahuaDong/LGA/blob/main/data/overview.png)
 
