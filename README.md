@@ -41,7 +41,7 @@ If you find this code is useful to your research, please consider to cite our pa
     author = {Dong, Jiahua and Li, Hongliu and Cong, Yang and Sun, Gan and Zhang, Yulun and Van Gool, Luc},
     title = {No One Left Behind: Real-World Federated Class-Incremental Learning},
     booktitle = {arXiv preprint arXiv:2302.00903},
-    month = {Feb.},
+    month = {Aug.},
     year = {2023},
 }
 ```
