@@ -39,7 +39,7 @@ If you find this code is useful to your research, please consider to cite our pa
 ```
 @ARTICLE{9616392,
   author={Dong, Jiahua and Li, Hongliu and Cong, Yang and Sun, Gan and Zhang, Yulun and Van Gool, Luc},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)}, 
   title={No One Left Behind: Real-World Federated Class-Incremental Learning}, 
   year={2023}
 }
