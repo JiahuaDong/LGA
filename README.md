@@ -37,13 +37,13 @@ Modify the path of dataset in './scripts/cifar_task_10.sh' and run the following
 If you find this code is useful to your research, please consider to cite our paper.
 
 ```
-@InProceedings{Dong2023_LGA,
-    author = {Dong, Jiahua and Li, Hongliu and Cong, Yang and Sun, Gan and Zhang, Yulun and Van Gool, Luc},
-    title = {No One Left Behind: Real-World Federated Class-Incremental Learning},
-    booktitle = {arXiv preprint arXiv:2302.00903},
-    month = {Aug.},
-    year = {2023},
+@ARTICLE{9616392,
+  author={Dong, Jiahua and Li, Hongliu and Cong, Yang and Sun, Gan and Zhang, Yulun and Van Gool, Luc},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={No One Left Behind: Real-World Federated Class-Incremental Learning}, 
+  year={2023}
 }
+
 ```
 
 ```
