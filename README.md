@@ -43,7 +43,6 @@ If you find this code is useful to your research, please consider to cite our pa
   title={No One Left Behind: Real-World Federated Class-Incremental Learning}, 
   year={2023}
 }
-
 ```
 
 ```
