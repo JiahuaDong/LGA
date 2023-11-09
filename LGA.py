@@ -83,7 +83,7 @@ class LGA:
             if group != 0:
                 if self.current_class is not None:
                     self.last_class = self.current_class
-                self.current_class = random.sample([x for x in range(self.numclass - self.task_size, self.numclass)], int(0.6*self.task_size))
+                self.current_class = random.sample([x for x in range(self.numclass - self.task_size, self.numclass)], int(self.args.iid*self.task_size))
                 print(self.current_class)
             else:
                 self.last_class = None
